@@ -4,9 +4,20 @@ import requests
 import sys
 import time
 
-#1
+ def load_domains(json_file): # Loads the list of domains from a JSON file
+    try:
+        with open(json_file, "r", encoding="utf-8") as file:
+            return json.load(file)
+    except Exception as e:
+        print(f"Error loading JSON file: {e}")
+        return []
 
-# http code
+def get_ip_address(domain): # Tries to convert a domain name (like example.com) into an IP address
+    try:
+        ip_list = socket.getaddrinfo(domain, None, socket.AF_INET)  # IPv4 try
+        return ip_list[0][4][0]  
+    except socket.gaierror:
+        return "Unreachable"
 #2
 
 if len(sys.argv) < 2:
