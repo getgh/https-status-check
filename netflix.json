@@ -1,0 +1,1304 @@
+[
+  {
+    "code":"netflix",
+    "domain": "netflix.ad",
+    "language_code": "ca",
+    "country_code": "ad",
+    "country_name": "Andorra"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ae",
+    "language_code": "ar",
+    "country_code": "ae",
+    "country_name": "United Arab Emirates"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.al",
+    "language_code": "sq",
+    "country_code": "al",
+    "country_name": "Albania"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.am",
+    "language_code": "hy",
+    "country_code": "am",
+    "country_name": "Armenia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.as",
+    "language_code": "en",
+    "country_code": "as",
+    "country_name": "American Samoa"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.at",
+    "language_code": "de",
+    "country_code": "at",
+    "country_name": "Austria"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.az",
+    "language_code": "az",
+    "country_code": "az",
+    "country_name": "Azerbaijan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ba",
+    "language_code": "bs",
+    "country_code": "ba",
+    "country_name": "Bosnia and Herzegovina"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.be",
+    "language_code": "nl",
+    "country_code": "be",
+    "country_name": "Belgium"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.bf",
+    "language_code": "fr",
+    "country_code": "bf",
+    "country_name": "Burkina Faso"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.bg",
+    "language_code": "bg",
+    "country_code": "bg",
+    "country_name": "Bulgaria"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.bi",
+    "language_code": "fr",
+    "country_code": "bi",
+    "country_name": "Burundi"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.bj",
+    "language_code": "fr",
+    "country_code": "bj",
+    "country_name": "Benin"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.bs",
+    "language_code": "en",
+    "country_code": "bs",
+    "country_name": "Bahamas"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.bt",
+    "language_code": "bt",
+    "country_code": "bt",
+    "country_name": "Bhutan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.by",
+    "language_code": "be",
+    "country_code": "by",
+    "country_name": "Belarus"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ca",
+    "language_code": "en",
+    "country_code": "ca",
+    "country_name": "Canada"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.cd",
+    "language_code": "fr",
+    "country_code": "cg",
+    "country_name": "Democratic Republic of the Congo"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.cf",
+    "language_code": "fr",
+    "country_code": "cf",
+    "country_name": "Central African Republic"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.cg",
+    "language_code": "fr",
+    "country_code": "cg",
+    "country_name": "Republic of the Congo"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ch",
+    "language_code": "de",
+    "country_code": "ch",
+    "country_name": "Switzerland"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ci",
+    "language_code": "fr",
+    "country_code": "ci",
+    "country_name": "Ivory Coast"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.cl",
+    "language_code": "es",
+    "country_code": "cl",
+    "country_name": "Chile"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.cm",
+    "language_code": "en",
+    "country_code": "cm",
+    "country_name": "Cameroon"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.ao",
+    "language_code": "pt",
+    "country_code": "ao",
+    "country_name": "Angola"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.bw",
+    "language_code": "en",
+    "country_code": "bw",
+    "country_name": "Botswana"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.ck",
+    "language_code": "en",
+    "country_code": "ck",
+    "country_name": "Cook Islands"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.cr",
+    "language_code": "es",
+    "country_code": "cr",
+    "country_name": "Costa Rica"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.id",
+    "language_code": "id",
+    "country_code": "id",
+    "country_name": "Indonesia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.il",
+    "language_code": "iw",
+    "country_code": "il",
+    "country_name": "Israel"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.in",
+    "language_code": "hi",
+    "country_code": "in",
+    "country_name": "India"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.jp",
+    "language_code": "ja",
+    "country_code": "jp",
+    "country_name": "Japan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.ke",
+    "language_code": "en",
+    "country_code": "ke",
+    "country_name": "Kenya"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.kr",
+    "language_code": "ko",
+    "country_code": "kr",
+    "country_name": "South Korea"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.ls",
+    "language_code": "en",
+    "country_code": "ls",
+    "country_name": "Lesotho"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.ma",
+    "language_code": "ar",
+    "country_code": "ma",
+    "country_name": "Morocco"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.mz",
+    "language_code": "pt",
+    "country_code": "mz",
+    "country_name": "Mozambique"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.nz",
+    "language_code": "en",
+    "country_code": "nz",
+    "country_name": "New Zealand"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.th",
+    "language_code": "th",
+    "country_code": "th",
+    "country_name": "Thailand"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.tz",
+    "language_code": "sw",
+    "country_code": "tz",
+    "country_name": "Tanzania"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.ug",
+    "language_code": "en",
+    "country_code": "ug",
+    "country_name": "Uganda"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.uk",
+    "language_code": "en",
+    "country_code": "uk",
+    "country_name": "United Kingdom"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.uz",
+    "language_code": "uz",
+    "country_code": "uz",
+    "country_name": "Uzbekistan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.ve",
+    "language_code": "es",
+    "country_code": "ve",
+    "country_name": "Venezuela"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.vi",
+    "language_code": "en",
+    "country_code": "vi",
+    "country_name": "United States Virgin Islands"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.za",
+    "language_code": "af",
+    "country_code": "za",
+    "country_name": "South Africa"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.zm",
+    "language_code": "en",
+    "country_code": "zm",
+    "country_name": "Zambia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.co.zw",
+    "language_code": "en",
+    "country_code": "zw",
+    "country_name": "Zimbabwe"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com",
+    "language_code": "en",
+    "country_code": "us",
+    "country_name": "United States"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.af",
+    "language_code": "ps",
+    "country_code": "af",
+    "country_name": "Afghanistan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.ag",
+    "language_code": "en",
+    "country_code": "ag",
+    "country_name": "Antigua and Barbuda"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.ai",
+    "language_code": "en",
+    "country_code": "ai",
+    "country_name": "Anguilla"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.ar",
+    "language_code": "es",
+    "country_code": "ar",
+    "country_name": "Argentina"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.au",
+    "language_code": "en",
+    "country_code": "au",
+    "country_name": "Australia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.bd",
+    "language_code": "bn",
+    "country_code": "bd",
+    "country_name": "Bangladesh"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.bh",
+    "language_code": "ar",
+    "country_code": "bh",
+    "country_name": "Bahrain"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.bn",
+    "language_code": "ms",
+    "country_code": "bn",
+    "country_name": "Brunei"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.bo",
+    "language_code": "es",
+    "country_code": "bo",
+    "country_name": "Bolivia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.br",
+    "language_code": "pt",
+    "country_code": "br",
+    "country_name": "Brazil"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.bz",
+    "language_code": "en",
+    "country_code": "bz",
+    "country_name": "Belize"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.co",
+    "language_code": "es",
+    "country_code": "co",
+    "country_name": "Colombia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.cu",
+    "language_code": "es",
+    "country_code": "cu",
+    "country_name": "Cuba"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.cy",
+    "language_code": "el",
+    "country_code": "cy",
+    "country_name": "Cyprus"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.do",
+    "language_code": "es",
+    "country_code": "do",
+    "country_name": "Dominican Republic"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.ec",
+    "language_code": "es",
+    "country_code": "ec",
+    "country_name": "Ecuador"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.eg",
+    "language_code": "ar",
+    "country_code": "eg",
+    "country_name": "Egypt"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.et",
+    "language_code": "am",
+    "country_code": "et",
+    "country_name": "Ethiopia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.fj",
+    "language_code": "en",
+    "country_code": "fj",
+    "country_name": "Fiji"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.gh",
+    "language_code": "en",
+    "country_code": "gh",
+    "country_name": "Ghana"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.gi",
+    "language_code": "en",
+    "country_code": "gi",
+    "country_name": "Gibraltar"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.gt",
+    "language_code": "es",
+    "country_code": "gt",
+    "country_name": "Guatemala"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.hk",
+    "language_code": "en",
+    "country_code": "hk",
+    "country_name": "Hong Kong"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.jm",
+    "language_code": "en",
+    "country_code": "jm",
+    "country_name": "Jamaica"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.kh",
+    "language_code": "km",
+    "country_code": "kh",
+    "country_name": "Cambodia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.kw",
+    "language_code": "ar",
+    "country_code": "kw",
+    "country_name": "Kuwait"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.lb",
+    "language_code": "ar",
+    "country_code": "lb",
+    "country_name": "Lebanon"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.ly",
+    "language_code": "ar",
+    "country_code": "ly",
+    "country_name": "Libya"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.mm",
+    "language_code": "my",
+    "country_code": "mm",
+    "country_name": "Myanmar"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.mt",
+    "language_code": "mt",
+    "country_code": "mt",
+    "country_name": "Malta"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.mx",
+    "language_code": "es",
+    "country_code": "mx",
+    "country_name": "Mexico"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.my",
+    "language_code": "ms",
+    "country_code": "my",
+    "country_name": "Malaysia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.na",
+    "language_code": "en",
+    "country_code": "na",
+    "country_name": "Namibia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.ng",
+    "language_code": "en",
+    "country_code": "ng",
+    "country_name": "Nigeria"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.ni",
+    "language_code": "es",
+    "country_code": "ni",
+    "country_name": "Nicaragua"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.np",
+    "language_code": "ne",
+    "country_code": "np",
+    "country_name": "Nepal"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.om",
+    "language_code": "ar",
+    "country_code": "om",
+    "country_name": "Oman"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.pa",
+    "language_code": "es",
+    "country_code": "pa",
+    "country_name": "Panama"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.pe",
+    "language_code": "es",
+    "country_code": "pe",
+    "country_name": "Peru"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.pg",
+    "language_code": "en",
+    "country_code": "pg",
+    "country_name": "Papua New Guinea"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.ph",
+    "language_code": "tl",
+    "country_code": "ph",
+    "country_name": "Philippines"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.pk",
+    "language_code": "en",
+    "country_code": "pk",
+    "country_name": "Pakistan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.pr",
+    "language_code": "es",
+    "country_code": "pr",
+    "country_name": "Puerto Rico"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.py",
+    "language_code": "es",
+    "country_code": "py",
+    "country_name": "Paraguay"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.qa",
+    "language_code": "ar",
+    "country_code": "qa",
+    "country_name": "Qatar"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.sa",
+    "language_code": "ar",
+    "country_code": "sa",
+    "country_name": "Saudi Arabia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.sb",
+    "language_code": "en",
+    "country_code": "sb",
+    "country_name": "Solomon Islands"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.sg",
+    "language_code": "en",
+    "country_code": "sg",
+    "country_name": "Singapore"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.sl",
+    "language_code": "en",
+    "country_code": "sl",
+    "country_name": "Sierra Leone"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.sv",
+    "language_code": "es",
+    "country_code": "sv",
+    "country_name": "El Salvador"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.tj",
+    "language_code": "tg",
+    "country_code": "tj",
+    "country_name": "Tajikistan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.tr",
+    "language_code": "tr",
+    "country_code": "tr",
+    "country_name": "Turkiye"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.tr",
+    "language_code": "tr",
+    "country_code": "tr",
+    "country_name": "Turkey"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.tw",
+    "language_code": "zh-tw",
+    "country_code": "tw",
+    "country_name": "Taiwan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.ua",
+    "language_code": "uk",
+    "country_code": "ua",
+    "country_name": "Ukraine"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.uy",
+    "language_code": "es",
+    "country_code": "uy",
+    "country_name": "Uruguay"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.vc",
+    "language_code": "en",
+    "country_code": "vc",
+    "country_name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.com.vn",
+    "language_code": "vi",
+    "country_code": "vn",
+    "country_name": "Vietnam"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.cv",
+    "language_code": "pt",
+    "country_code": "cv",
+    "country_name": "Cape Verde"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.cz",
+    "language_code": "cs",
+    "country_code": "cz",
+    "country_name": "Czech Republic"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.de",
+    "language_code": "de",
+    "country_code": "de",
+    "country_name": "Germany"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.dj",
+    "language_code": "ar",
+    "country_code": "dj",
+    "country_name": "Djibouti"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.dk",
+    "language_code": "da",
+    "country_code": "dk",
+    "country_name": "Denmark"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.dm",
+    "language_code": "en",
+    "country_code": "dm",
+    "country_name": "Dominica"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.dz",
+    "language_code": "ar",
+    "country_code": "dz",
+    "country_name": "Algeria"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ee",
+    "language_code": "et",
+    "country_code": "ee",
+    "country_name": "Estonia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.es",
+    "language_code": "es",
+    "country_code": "es",
+    "country_name": "Spain"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.fi",
+    "language_code": "fi",
+    "country_code": "fi",
+    "country_name": "Finland"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.fm",
+    "language_code": "en",
+    "country_code": "fm",
+    "country_name": "Micronesia, Federated States of"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.fr",
+    "language_code": "fr",
+    "country_code": "fr",
+    "country_name": "France"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ga",
+    "language_code": "fr",
+    "country_code": "ga",
+    "country_name": "Gabon"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ge",
+    "language_code": "ka",
+    "country_code": "ge",
+    "country_name": "Georgia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.gl",
+    "language_code": "kl",
+    "country_code": "gl",
+    "country_name": "Greenland"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.gm",
+    "language_code": "en",
+    "country_code": "gm",
+    "country_name": "Gambia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.gp",
+    "language_code": "fr",
+    "country_code": "gp",
+    "country_name": "Guadeloupe"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.gr",
+    "language_code": "el",
+    "country_code": "gr",
+    "country_name": "Greece"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.gy",
+    "language_code": "en",
+    "country_code": "gy",
+    "country_name": "Guyana"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.hn",
+    "language_code": "es",
+    "country_code": "hn",
+    "country_name": "Honduras"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.hr",
+    "language_code": "hr",
+    "country_code": "hr",
+    "country_name": "Croatia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ht",
+    "language_code": "fr",
+    "country_code": "ht",
+    "country_name": "Haiti"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.hu",
+    "language_code": "hu",
+    "country_code": "hu",
+    "country_name": "Hungary"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ie",
+    "language_code": "en",
+    "country_code": "ie",
+    "country_name": "Ireland"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.iq",
+    "language_code": "ar",
+    "country_code": "iq",
+    "country_name": "Iraq"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.is",
+    "language_code": "is",
+    "country_code": "is",
+    "country_name": "Iceland"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.it",
+    "language_code": "it",
+    "country_code": "it",
+    "country_name": "Italy"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.je",
+    "language_code": "en",
+    "country_code": "je",
+    "country_name": "Jersey"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.jo",
+    "language_code": "ar",
+    "country_code": "jo",
+    "country_name": "Jordan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.kg",
+    "language_code": "ky",
+    "country_code": "kg",
+    "country_name": "Kyrgyzstan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ki",
+    "language_code": "en",
+    "country_code": "ki",
+    "country_name": "Kiribati"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.kz",
+    "language_code": "kk",
+    "country_code": "kz",
+    "country_name": "Kazakhstan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.la",
+    "language_code": "lo",
+    "country_code": "la",
+    "country_name": "Laos"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.li",
+    "language_code": "de",
+    "country_code": "li",
+    "country_name": "Liechtenstein"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.lk",
+    "language_code": "si",
+    "country_code": "lk",
+    "country_name": "Sri Lanka"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.lt",
+    "language_code": "lt",
+    "country_code": "lt",
+    "country_name": "Lithuania"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.lu",
+    "language_code": "fr",
+    "country_code": "lu",
+    "country_name": "Luxembourg"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.lv",
+    "language_code": "lv",
+    "country_code": "lv",
+    "country_name": "Latvia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.md",
+    "language_code": "ro",
+    "country_code": "md",
+    "country_name": "Moldova"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.mg",
+    "language_code": "fr",
+    "country_code": "mg",
+    "country_name": "Madagascar"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.mk",
+    "language_code": "mk",
+    "country_code": "mk",
+    "country_name": "Macedonia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ml",
+    "language_code": "fr",
+    "country_code": "ml",
+    "country_name": "Mali"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.mn",
+    "language_code": "mn",
+    "country_code": "mn",
+    "country_name": "Mongolia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ms",
+    "language_code": "en",
+    "country_code": "ms",
+    "country_name": "Montserrat"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.mu",
+    "language_code": "en",
+    "country_code": "mu",
+    "country_name": "Mauritius"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.mv",
+    "language_code": "mv",
+    "country_code": "mv",
+    "country_name": "Maldives"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.mw",
+    "language_code": "en",
+    "country_code": "mw",
+    "country_name": "Malawi"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ne",
+    "language_code": "fr",
+    "country_code": "ne",
+    "country_name": "Niger"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.nl",
+    "language_code": "nl",
+    "country_code": "nl",
+    "country_name": "Netherlands"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.no",
+    "language_code": "no",
+    "country_code": "no",
+    "country_name": "Norway"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.nr",
+    "language_code": "en",
+    "country_code": "nr",
+    "country_name": "Nauru"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.nu",
+    "language_code": "en",
+    "country_code": "nu",
+    "country_name": "Niue"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.pl",
+    "language_code": "pl",
+    "country_code": "pl",
+    "country_name": "Poland"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ps",
+    "language_code": "ar",
+    "country_code": "ps",
+    "country_name": "Palestine"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.pt",
+    "language_code": "pt",
+    "country_code": "pt",
+    "country_name": "Portugal"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ro",
+    "language_code": "ro",
+    "country_code": "ro",
+    "country_name": "Romania"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.rs",
+    "language_code": "sr",
+    "country_code": "rs",
+    "country_name": "Serbia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ru",
+    "language_code": "ru",
+    "country_code": "ru",
+    "country_name": "Russia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.rw",
+    "language_code": "rw",
+    "country_code": "rw",
+    "country_name": "Rwanda"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.sc",
+    "language_code": "fr",
+    "country_code": "sc",
+    "country_name": "Seychelles"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.se",
+    "language_code": "sv",
+    "country_code": "se",
+    "country_name": "Sweden"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.sh",
+    "language_code": "en",
+    "country_code": "sh",
+    "country_name": "Saint Helena, Ascension and Tristan da Cunha"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.si",
+    "language_code": "sl",
+    "country_code": "si",
+    "country_name": "Slovenia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.sk",
+    "language_code": "sk",
+    "country_code": "sk",
+    "country_name": "Slovakia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.sm",
+    "language_code": "it",
+    "country_code": "sm",
+    "country_name": "San Marino"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.sn",
+    "language_code": "fr",
+    "country_code": "sn",
+    "country_name": "Senegal"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.so",
+    "language_code": "so",
+    "country_code": "so",
+    "country_name": "Somalia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.sr",
+    "language_code": "nl",
+    "country_code": "sr",
+    "country_name": "Suriname"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.td",
+    "language_code": "ar",
+    "country_code": "td",
+    "country_name": "Chad"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.tg",
+    "language_code": "fr",
+    "country_code": "tg",
+    "country_name": "Togo"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.tk",
+    "language_code": "en",
+    "country_code": "tk",
+    "country_name": "Tokelau"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.tl",
+    "language_code": "pt",
+    "country_code": "tl",
+    "country_name": "Timor-Leste"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.tm",
+    "language_code": "tk",
+    "country_code": "tm",
+    "country_name": "Turkmenistan"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.tn",
+    "language_code": "ar",
+    "country_code": "tn",
+    "country_name": "Tunisia"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.to",
+    "language_code": "en",
+    "country_code": "to",
+    "country_name": "Tonga"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.tt",
+    "language_code": "en",
+    "country_code": "tt",
+    "country_name": "Trinidad and Tobago"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.vg",
+    "language_code": "en",
+    "country_code": "vg",
+    "country_name": "British Virgin Islands"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.vu",
+    "language_code": "vu",
+    "country_code": "vu",
+    "country_name": "Vanuatu"
+  },
+  {
+    "code":"netflix",
+    "domain": "netflix.ws",
+    "language_code": "ws",
+    "country_code": "ws",
+    "country_name": "Samoa"
+  }
+]
