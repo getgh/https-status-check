@@ -37,8 +37,6 @@ def get_tcp_latency(ip):
         return "Connection Timeout"
     except socket.error:
         return "Connection Failed"
-```
-<@696448936864383017>
 
 if len(sys.argv) < 2:
     print("Usage: python script.py <JSON_FILENAME>")
