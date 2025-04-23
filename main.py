@@ -18,8 +18,7 @@ def get_ip_address(domain): # Tries to convert a domain name (like example.com) 
         return ip_list[0][4][0]  
     except socket.gaierror:
         return "Unreachable"
-#2
-```py
+     
 def get_status_code(domain):  
     try:
         response = requests.get(f"http://{domain}", timeout=5) #tiemout=parameter
