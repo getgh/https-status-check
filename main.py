@@ -19,6 +19,27 @@ def get_ip_address(domain): # Tries to convert a domain name (like example.com) 
     except socket.gaierror:
         return "Unreachable"
 #2
+```py
+def get_status_code(domain):  
+    try:
+        response = requests.get(f"http://{domain}", timeout=5) #tiemout=parameter
+        return response.status_code
+    except requests.RequestException:
+        return "Failed"
+
+# check connection latency
+def get_tcp_latency(ip):
+    start_time = time.time()
+    try:
+        sock = socket.create_connection((ip, 80), timeout=5)
+        latency = round((time.time() - start_time) * 1000, 2)  # Convert to ms
+        return f"{latency} ms"
+    except socket.timeout:
+        return "Connection Timeout"
+    except socket.error:
+        return "Connection Failed"
+```
+<@696448936864383017>
 
 if len(sys.argv) < 2:
     print("Usage: python script.py <JSON_FILENAME>")
