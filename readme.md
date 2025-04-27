@@ -14,8 +14,14 @@ A simple Python project designed to check the HTTPS status and latency of websit
 
 ## 🗂️ Project Structure
 
-📂 https-status-check/ ├── google.json # Sample JSON file ├── netflix.json # Sample JSON file ├── youtube.json # Sample JSON file ├── initial_draft.py # Initial draft of the project ├── initial_draft_stage.py # Stage for next drafts ├── main.py # Main script ├── test_latancy.py # Testing latency and functionalities
-
+📂 https-status-check/
+├── google.json            # Sample JSON file
+├── netflix.json           # Sample JSON file
+├── youtube.json           # Sample JSON file
+├── initial_draft.py       # Initial draft of the project
+├── initial_draft_stage.py # Stage for next drafts
+├── main.py                # Main script
+├── test_latancy.py        # Testing latency and functionalities
 
 ---
 
